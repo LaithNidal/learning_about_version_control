@@ -1,2 +1,2 @@
-# Learning_About_Version_Control
-Repo to satisfy first individual asingment for DSCI 522.
+# Learning About Version Control
+Repo to satisfy first individual assingment for DSCI 522.
